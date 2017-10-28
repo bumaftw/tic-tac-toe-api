@@ -1,2 +1,2 @@
-# tic-tac-toe
-tic-tac-toe
+# tic-tac-toe-api
+tic-tac-toe-api
